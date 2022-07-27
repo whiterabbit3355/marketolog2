@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Neo Sans Pro Light";
+  src: url("../../NeoSansPro-Light.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Neo Sans Pro Regular";
+  src: url("../../NeoSansPro-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Neo Sans Pro Bold";
+  src: url("../../NeoSansPro-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Neo Sans Pro Ultra";
+  src: url("../../NeoSansPro-Ultra.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
